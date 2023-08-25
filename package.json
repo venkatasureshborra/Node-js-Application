@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.109.1.201:9980/mithuntechnologies/repository/mss-nodejsrepo/"
+    "registry": "http://172.31.33.183:8081/repository/nodejs-app-artifacts/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "http://172.31.33.183:8081/repository/nodejs-app-artifacts/"
   },
   "keywords": [
     "node",
